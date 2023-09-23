@@ -38,8 +38,8 @@ hero:
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Alena Curtis
-  author__bio: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
+  author__name: Fabrizio Giovannini Filho
+  author__bio: I'm a Product Manager with a strong background in data analytics and leadership
   author__avatar: /images/01-1.jpg
 
 
@@ -70,8 +70,8 @@ tag__settings:
 # Author Section Settings
 author__section:
   enable: true
-  author__section__title: Hello, my name is Alena. I’m reviewer and content creator.
-  author__section__description: I’m a published content creator, brand copywriter, photographer, and social media content creator and manager. I help brands connect with their customers by developing engaging content that entertains, educates, and offers value to their audience.
+  author__section__title: Hello, my name is Fabrizio. I'm a Product Manager and Data Science enthusiast.
+  author__section__description: CONTENT IN SETTINGS.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/100.jpg
@@ -114,17 +114,17 @@ footer__menu__settings:
       url: '/'
     - title: 'About'
       url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
-    - title: 'Elements'
-      url: '/elements/'
+    - title: 'Posts'
+      url: '/posts/'
+    - title: 'Code'
+      url: '/code/'
 
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your form_id
-  description: Mria comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+  email: fabriziogf@gmail.com # Add your form_id
+  description: Need to delete this page. # Add a description of your form
 
 # NOTE
 # Mria theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
