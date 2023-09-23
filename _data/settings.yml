@@ -55,12 +55,11 @@ blog__settings:
 # Author Section Settings
 author__section:
   enable: true
-  author__section__title: Hello, my name is Fabrizio. I'm a Product Manager and Data Science enthusiast.
-  author__section__description: CONTENT IN SETTINGS.
+  author__section__title: Fabrizio Giovannini Filho
+  author__section__description: Product Manager and Data Science enthusiast.
   aurhor__section__button__text: More About Me
   aurhor__section__button__link: /about
   author__section__big__image: /images/100.jpg
-  author__section__small__image: /images/101.jpg
 
 
 #-------------------------------
