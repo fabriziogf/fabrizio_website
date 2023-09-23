@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Mria
+title: Fabrizio GF - Personal Website
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Mria is a multipurpose blog theme for Jekyll
+description: Personal website for Fabrizio Giovannini Filho.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -12,20 +12,18 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Authors'
-      url: '/authors/'
-    - title: 'Videos'
-      url: '/videos/'
-    - title: 'Pages'
+    - title: 'Posts'
       submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+      - url: '/posts/'
+        title: 'All'
+      - url: '/pm_posts/'
+        title: 'Product Management'
+      - url: '/ds_posts/'
+        title: 'Data Science'
+    - title: 'Code'
+      url: '/code/'
+    - title: 'About'
+      url: '/about/'
 
 
 #-------------------------------
