@@ -15,10 +15,14 @@ CONTECT IN _PAGES FOLDER
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-CONTECT IN _PAGES FOLDER
+Hello,
 
-CONTECT IN _PAGES FOLDER
+My name is Fabrizio. I am a product manager, data enthusiast, and amateur triathlete. This webpage aims to showcase my work at the intersection of tech, data science and endurance sports.
+
+PROFESSIONAL BACKGROUNG
 
 <p><iframe src="https://player.vimeo.com/video/148003889?h=d36b8b4cbb" loading="lazy" width="640" height="360" frameborder="0" allowfullscreen></iframe></p>
+
+TRIATHLON
 
 CONTECT IN _PAGES FOLDER
