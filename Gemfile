@@ -13,8 +13,10 @@ source "https://rubygems.org"
 
 # To upgrade, run `bundle update`.
 
-gem "jekyll", "~> 4.2"
+gem "bundler"
 gem "minimal-mistakes-jekyll"
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
@@ -25,6 +27,4 @@ gem "minimal-mistakes-jekyll"
 #
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
-group :jekyll_plugins do
-    gem "jekyll-timeago", "~> 0.13.1"
 end
