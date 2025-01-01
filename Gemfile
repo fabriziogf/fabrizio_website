@@ -27,4 +27,3 @@ gem "jekyll-include-cache", group: :jekyll_plugins
 #
 # If you have any other plugins, put them here!
 # Cf. https://jekyllrb.com/docs/plugins/installation/
-end
