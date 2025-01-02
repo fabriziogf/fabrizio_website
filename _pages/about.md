@@ -49,7 +49,7 @@ MS in Computer Science from University of Chicago
 
 ## CV
 
-[Fabrizio's CV](https://fabriziogf.github.io/about/download/'Fabrizio Giovannini Filho - Resume 20240325.pdf')
+[Fabrizio's CV](https://fabriziogf.github.io//download/Fabrizio Giovannini Filho - Resume 20240325.pdf)
 
 ---
 
