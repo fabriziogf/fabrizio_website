@@ -12,7 +12,6 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
 layout: single
 author_profile: true
 toc: true
@@ -50,11 +49,10 @@ MS in Computer Science from University of Chicago
 
 ## CV
 
-LINK
+[Fabrizio's CV]("https://https://fabriziogf.github.io/download/Fabrizio Giovannini Filho - Resume 20240325.pdf")
 
 ---
 
 ## Triathlon
 
-<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/25618422/activity-summary/765dc067c3d8b73b0d6001d6a7cf1dc1cb388a57'></iframe> <br>
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/25618422/latest-rides/765dc067c3d8b73b0d6001d6a7cf1dc1cb388a57'></iframe>
