@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /about/
 title: "About"
 excerpt: "Technical product leader and amateur triathlete"
@@ -14,6 +13,8 @@ layouts_gallery:
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
 last_modified_at: 2022-05-27T11:59:26-04:00
+layout: single
+author_profile: true
 toc: true
 ---
 
