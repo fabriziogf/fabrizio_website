@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /about/
 title: "About"
 excerpt: "Technical product leader and amateur triathlete"
