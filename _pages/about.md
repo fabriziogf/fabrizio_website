@@ -18,27 +18,32 @@ author_profile: true
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Technical product leader with 8+ years of product management, data analytics and economics experience.
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
-
---
+---
 
 ## Highlights
 
 **Product management:**	8 years of product management and consulting experience. Thrive as a technical product leader at Amazon.
+
 **Data analytics:**	5 years of experience as analytics management. Not afraid to deep dive into problems and independently prototype analytics solutions.
+
 **Machine learning:**	3 years of experience in ML product management, launching staffing optimization and science products at Amazon. Curious about ML topics (see blog posts).
+
 **Economics:**	Princeton BA in Economics (quantitative track) with 6 years of experience in economic consulting and product management.
+
 **Computer science:**	MS in Computer Sciene from the University of Chicago, extensive CS coursework at Princeton, and 3 years of technical experience at Amazon.
+
 **Leadership:**	Lead by example and always seeking new challenges, be it professionally or otherwise.
 
---
+---
 
 ## Education
 
 BA from Princeton University
+
 MBA from Chicago Booth
+
 MS in Computer Science from University of Chicago
 
 ---
