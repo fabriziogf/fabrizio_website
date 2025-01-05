@@ -16,7 +16,17 @@ Some of the changes that I made:
 4. Added content in resume summary
 5. Changed font size and general small formatting things
 
-You can explore the repo yourself to 
+I decided to use the Minimal Mistakes Jekyll theme: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+I liked this particulatr theme (one of many) because of the simple style of the website and the great documentation that the author has put together.
+
+You can explore the repo yourself: 
+
+
+## Adding my resume info
+
+I also wanted to make my resume fun and showcase my interests. One cool feature I wanted to add was a Strava widget. I sepnd way too much time biking, running, and swiming.
+
+Take a peak at the result in the About page! (NEED TO ADD LINK)
 
 ## Writing this first post
 

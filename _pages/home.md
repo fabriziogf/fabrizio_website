@@ -35,4 +35,8 @@ feature_row:
     btn_label: "Learn more"      
 ---
 
+## Welcome to my personal website!
+
+My aim is to showcase some of my technical skills and have some fun coding!
+
 {% include feature_row %}
