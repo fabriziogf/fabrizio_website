@@ -13,17 +13,12 @@ Technical product leader with 8+ years of product management, consulting, data a
 
 ## Highlights
 
-**Product management:**	8+ years of product management and consulting experience. Thrive as a technical product leader at Amazon.
-
-**Data analytics:**	5+ years of experience as analytics manager. Not afraid to deep dive into problems and independently prototype analytics solutions.
-
-**Data Science and ML:**	3+ years of experience collaborating with DS and ML as a product manager, launching staffing optimization and science products at Amazon. Curious about a variety of DS and ML topics (see blog posts).
-
-**Economics:**	Princeton BA in Economics (quantitative track) with 6 years of experience in economic consulting and economics product management.
-
-**Computer science:**	MS in Computer Sciene from the University of Chicago, extensive CS coursework at Princeton, and 3+ years of technical experience at Amazon.
-
-**Leadership:**	Lead by example and always seeking new challenges, be it professionally or otherwise. As a product manager, I use my hard working mentality to influence without authority.
+- **Product management:**	8+ years of product management and consulting experience. Thrive as a technical product leader at Amazon.
+- **Data analytics:**	5+ years of experience as analytics manager. Not afraid to deep dive into problems and independently prototype analytics solutions.
+- **Data Science and ML:**	3+ years of experience collaborating with DS and ML as a product manager, launching staffing optimization and science products at Amazon. Curious about a variety of DS and ML topics (see blog posts).
+- **Economics:**	Princeton BA in Economics (quantitative track) with 6 years of experience in economic consulting and economics product management.
+- **Computer science:**	MS in Computer Sciene from the University of Chicago, extensive CS coursework at Princeton, and 3+ years of technical experience at Amazon.
+- **Leadership:**	Lead by example and always seeking new challenges, be it professionally or otherwise. As a product manager, I use my hard working mentality to influence without authority.
 
 ---
 
@@ -54,8 +49,10 @@ Technical product leader with 8+ years of product management, consulting, data a
 A former rower in college, I am not an elite amateur triathlete. I specialize in longer distances, such as 70.3 and Ironmans.
 
 - D1 rower as a member of the Princeton lightweight rowing team
+- National champion in the Men's Lightweight 4-
+- 2x Head of the Charles champion in the Men's Lightweight 8+
 - Co-chair of the Booth Triathlon and Running Club
-- 2022 Ironman World Championships finished
+- 2022 Ironman World Championships finisher
 - 4x Ironman 70.3 World Championships qualifier
 
 If you are on Strava, feel free to follow me!
