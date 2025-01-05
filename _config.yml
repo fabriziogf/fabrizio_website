@@ -310,3 +310,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+
+  - scope:
+      path: ""
+      type: Home
+    values:
+      layout: home
+      author_profile: true
