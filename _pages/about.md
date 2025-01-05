@@ -29,20 +29,35 @@ Technical product leader with 8+ years of product management, consulting, data a
 
 ## Education
 
-BA from Princeton University
+**Bachelor of Arts in Economics** from Princeton University.
+- Minor in Finance.
+- Recipient of the Gordon G. Sikes Medal.
+- CS Coursework: General Computer Science, Algorithms and Data Structures, Computing for Physical and Social Sciences, Introduction to Programming Systems, Advanced Programming Techniques.
 
-MBA from Chicago Booth
+**Masters in Business Administration** from Chicago Booth.
+- Concentrations in Entrepreneurship and Finance.
+- Recipient of the John and Louise Wellemeyer Scholarship Fund.
 
-MS in Computer Science from University of Chicago
+**Masters of Science in Computer Science** from University of Chicago.
+- Coursework: Mathematics for Computer Science, Python Programming, Databases, Algorithms, Computer Systems, Applied Financial Technology, Cloud Computing, Applied Software Engineering, Lab in Developing New Products and Services.
 
 ---
 
 ## CV
 
-[Fabrizio's CV](https://fabriziogf.github.io//download/Fabrizio Giovannini Filho - Resume 20240325.pdf)
+- [Fabrizio's CV](https://fabriziogf.github.io//download/Fabrizio Giovannini Filho - Resume 20240325.pdf)
 
 ---
 
-## Triathlon
+## Triathlon and Rowing
+
+A former rower in college, I am not an elite amateur triathlete. I specialize in longer distances, such as 70.3 and Ironmans.
+
+- D1 rower as a member of the Princeton lightweight rowing team
+- Co-chair of the Booth Triathlon and Running Club
+- 2022 Ironman World Championships finished
+- 4x Ironman 70.3 World Championships qualifier
+
+If you are on Strava, feel free to follow me!
 
 <iframe height='454' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/athletes/25618422/latest-rides/765dc067c3d8b73b0d6001d6a7cf1dc1cb388a57'></iframe>
