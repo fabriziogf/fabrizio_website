@@ -117,11 +117,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Technical product leader at Amazon and amateur triathlete."
   location         : "Chicago, IL"
-  email            :
+  email            : "fabriziogf@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:your.fabriziogf@gmail.com"
+      url: "mailto:fabriziogf@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/fgiovanninifilho/"

@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "About the author"
 excerpt: "Technical product leader and amateur triathlete"
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
