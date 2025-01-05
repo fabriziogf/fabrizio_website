@@ -2,22 +2,12 @@
 permalink: /about/
 title: "About the author"
 excerpt: "Technical product leader and amateur triathlete"
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
 layout: single
 author_profile: true
 toc: true
 ---
 
-Technical product leader with 8+ years of product management, data analytics and economics experience.
+Technical product leader with 8+ years of product management, consulting, data analytics, and economics experience.
 
 ---
 
