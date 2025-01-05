@@ -1,6 +1,7 @@
 ---
-layout: default
-description: This is my first blog
+title: "This is my first blog"
+# categories: 
+#   - Jekyll
 ---
 # This should be the top heading
 ## This should be a subheading
